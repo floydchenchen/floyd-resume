@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name":"Floyd Chen",
+    "occupation":"Senior Computer Science Student graduating December 2018",
+    "description":"I am a Frontend React / Full Stack Developer seeking full-time position",
+    "image":"profilepic.jpeg",
+    "bio":[
+      "• Actively looking for a frontend / full stack entry level developer position",
+      "• React developer. Contributed a lot to a React Component UI Library during summer 2018 and built multiple full stack React applications.",
+      "• Senior computer science student graduating in December 2018",
+      "• 2 years of hands-on coding experience with a solid algorithm, data structure, and fundamentals background.",
+      "• web dev skills: JavaScript, React.js, Node.js, Express.js, GraphQL, HTML, Bootstrap, CSS, Sass, RESTFul, MongoDB"],
+    "email": "floydchenchen@gmail.com",
+    "phone": "651-210-3898",
+    "address":{
+      "street":"311 Harvard St SE",
+      "city":"Minneapolis",
+      "state":"MN",
+      "zip": "55414"
+    },
+    "website": "https://github.com/floydchenchen",
+    "resumedownload":"https://drive.google.com/file/d/140thU9hn6v2UubElZpXkVWXCfLNjekQT/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/floydchen/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/floydchenchen",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of Minnesota",
+        "degree":"Bachelor of Science",
+        "graduated":"December 2018",
+        "description":[
+          "• Algorithms and Data Structures",
+          "• Computer Network, Web Development",
+          "• Intro to Operating System",
+          "• Function Programming",
+          "• Software Engineering, Database",
+          "• Intro to Artificial Intelligence"
+        ]
+      }
+    ],
+    "work":[
+      {
+        "company":"Digital River",
+        "title":"Software Engineer Intern",
+        "years":"June 2018 - August 2018",
+        "description":[
+          "• Contributed as one of the core developers to React Atlast, an open-source React UI Library that is actively used as the UI standard by Digital River and is one of the core projects of Digital River’s front end team.",
+          "• Created and solved 5% of the total issues of the UI Library by testing, solving major bugs and enhancing components.",
+          "• Added, rewrote and stabilized major components; developed new UI demo site to replace the old jQuery demos.",
+          "• Developed a user guide center web widget and its components including Walkthrough, Tooltip and Lightbox, etc."
+        ]
+      },
+      {
+        "company": "University of Minneota",
+        "title": "WebDev Research Assistant",
+        "years": "January 2018 - Present",
+        "description": [
+          "• Used MERN stack(MongoDB, Express, React, Node.js) and GraphQL to re-develop from scratch and maintain the website for Metro Food Access Network (MFAN), a University of Minnesota based non-profit organization.",
+          "• Used D3.js to create visualized force directed graphs and geomaps for MFAN partners data."
+        ]
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"MySQL",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Metro Food Access Network",
+        "category":"MFAN works to make healthy foods accessible to Twin Cities residents.",
+        "image":"mfan.png",
+        "url":"https://floydchenchen.github.io/MFAN-REACT/"
+      },
+      {
+        "title":"React Atlas",
+        "category":"a React component library, with a focus on supplying Admin Interface tools",
+        "image":"react-atlas.png",
+        "url":"https://github.com/DigitalRiver/react-atlas"
+      },
+      {
+        "title":"Find Your Dream Campgrounds",
+        "category":"a full stack RESTful website to display and store campgrounds data",
+        "image":"yelp-camp.png",
+        "url":"https://floydyelpcamp.herokuapp.com/"
+      },
+      {
+        "title":"Football Injury Predictor",
+        "category":"a web-app that utilizes machine learning to predict chances of injury for football players",
+        "image":"football-injury.png",
+        "url":"https://github.com/floydchenchen/injury-predictor"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Floyd is a passionate, inquisitive, and self-driven student of Software Engineering. With an equal level of interest in both \"why\" and \"how\", Floyd sets himself apart from his peers with an infectious energy level that helps to motivate anybody around him. His short time as an Intern at Digital River provided immediate value for the company as he came in ready to work, learn, and listen. He was willing to do any type of work, tackled problems that had perplexed veteran engineers, and asked lots of questions. I would absolutely recommend him for any type of role he pursues as he will find a way to succeed, no matter what his background or challenges are placed in his way.",
+        "user":"Derek Harper, Sr. Software Engineering Manager at Digital River"
+      }
+    ]
+  }
+}
