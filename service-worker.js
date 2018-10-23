@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/floyd-resume/precache-manifest.e42644a8fc66012e9780d9cddae3e731.js"
+  "/floyd-resume/precache-manifest.3c4ff250091ba0cbbeece86b9a97240e.js"
 );
 
 workbox.clientsClaim();
