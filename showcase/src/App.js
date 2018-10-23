@@ -26,7 +26,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url: 'https://floydchenchen.github.io/floyd-resume/resumeData.json',
+      url: '/resumeData.json' || 'https://floydchenchen.github.io/floyd-resume/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
