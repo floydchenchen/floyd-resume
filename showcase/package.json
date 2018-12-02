@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://floydchenchen.github.io/floyd-resume/",
+  "homepage": "https://www.floydchen.com",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "jquery": "^3.3.1",
