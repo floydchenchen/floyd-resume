@@ -1,13 +1,13 @@
 {
-  "main.css": "/floyd-resume/static/css/main.8eb08f91.chunk.css",
-  "main.js": "/floyd-resume/static/js/main.08b01467.chunk.js",
-  "main.js.map": "/floyd-resume/static/js/main.08b01467.chunk.js.map",
-  "static/js/1.3bf8d718.chunk.js": "/floyd-resume/static/js/1.3bf8d718.chunk.js",
-  "static/js/1.3bf8d718.chunk.js.map": "/floyd-resume/static/js/1.3bf8d718.chunk.js.map",
-  "runtime~main.js": "/floyd-resume/static/js/runtime~main.4093e56b.js",
-  "runtime~main.js.map": "/floyd-resume/static/js/runtime~main.4093e56b.js.map",
-  "static/css/main.8eb08f91.chunk.css.map": "/floyd-resume/static/css/main.8eb08f91.chunk.css.map",
-  "index.html": "/floyd-resume/index.html",
-  "precache-manifest.e42644a8fc66012e9780d9cddae3e731.js": "/floyd-resume/precache-manifest.e42644a8fc66012e9780d9cddae3e731.js",
-  "service-worker.js": "/floyd-resume/service-worker.js"
+  "main.css": "/static/css/main.8eb08f91.chunk.css",
+  "main.js": "/static/js/main.3adbf625.chunk.js",
+  "main.js.map": "/static/js/main.3adbf625.chunk.js.map",
+  "static/js/1.3bf8d718.chunk.js": "/static/js/1.3bf8d718.chunk.js",
+  "static/js/1.3bf8d718.chunk.js.map": "/static/js/1.3bf8d718.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.8eb08f91.chunk.css.map": "/static/css/main.8eb08f91.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.292eae3fcc726963af9727378decfe79.js": "/precache-manifest.292eae3fcc726963af9727378decfe79.js",
+  "service-worker.js": "/service-worker.js"
 }
